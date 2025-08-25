@@ -92,8 +92,8 @@ src/
 - HTTP errors: ensure Wi‑Fi connectivity and valid API keys; see the serial log for HTTP status.
 
 ## Contributors
-- Lahiru Wimalarathna @lahiruC22
-- Pathini Ekanayake   @PathiniE
+- [Lahiru Wimalarathna](https://github.com/lahiruC22)
+- [Pathini Ekanayake](https://github.com/PathiniE)
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the `LICENSE` file for details.
